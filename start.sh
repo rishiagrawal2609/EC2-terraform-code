@@ -6,3 +6,4 @@ sudo apt install curl
 sudo apt install python3
 sudo apt install terraform
 terraform -v
+terraform init
